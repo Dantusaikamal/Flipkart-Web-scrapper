@@ -2,4 +2,4 @@
 
 **Work in progress**
 
-This repository containts my python project which sends you an email incase there's a price drop of any desired product. 
+This repository containts my python project which sends you an email incase there's a price drop of any desired product from Flipkart. 
